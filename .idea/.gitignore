@@ -1,0 +1,17 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore build output
+/out/
+*/target/
+*/build/
+*.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency directories
+/.mvn/
+.gradle/
